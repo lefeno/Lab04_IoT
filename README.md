@@ -37,7 +37,7 @@ Please note that the UID is a unique value that are read from an RFID card.
 
 In this exercise, we will use module RC522 RFID module for implementing SPI and send the uid data to a server. 
 
-Please refer to this link: https://github.com/lefeno/lab_iot/tree/lab03_iot to understand how to set up your hardware and how to use the application to READ and WRITE to RFID cards.
+Please refer to this link: https://github.com/lefeno/Lab03_IoT to understand how to set up your hardware and how to use the application to READ and WRITE to RFID cards.
 
 ## Upload to server
 
